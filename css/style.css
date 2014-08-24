@@ -1,0 +1,16 @@
+.container{
+	width: 100vw;	
+	height: 100vh;
+}
+
+.date{
+	color: white;
+	font-size: 80px;
+	font-family: 'Limelight', cursive;
+	position: relative;
+	width: 50%;
+	left: 25%;
+	text-align: center;
+	height: 20%;
+	top: 40%;
+}
